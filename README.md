@@ -147,10 +147,7 @@ externalNativeBuild {
 ```
 
 其实很显然，它就是指定我们的CMakeLists文件路径的，当然我们的这个路径是可以更改的。
-这里教大家一个小技巧，在cmd中执行：adb shell cat /proc/cpuinfo可以查看当前手机的cpu架构哦，效果图如下：
-
-
-![image](https://user-images.githubusercontent.com/10016338/133420559-49764c1f-5065-4230-9427-adb27196d70f.png) 
+这里教大家一个小技巧，在cmd中执行：adb shell cat /proc/cpuinfo可以查看当前手机的cpu架构哦
 
 
 
